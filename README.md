@@ -28,7 +28,7 @@ A Python-based GUI application to encode and decode messages securely using a ke
 ```
 Message Encode-Decode
 │
-├── main.py        # The Python script for the application
+├── Message Encode Decode.ipynb        # The Python script for the application
 └── README.md      # Documentation for the project
 ```
 
