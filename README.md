@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your project, explaining its purpose, features, usage, and setup instructions.
-
----
-
 # Message Encode-Decode Application
 
 A Python-based GUI application to encode and decode messages securely using a key. This app ensures secure communication by transforming messages into encoded formats that can only be decoded with the correct key. It is built with **Tkinter** for the graphical user interface and **base64** for encoding and decoding operations.
@@ -84,7 +80,3 @@ Feel free to fork this repository and submit pull requests with improvements or 
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This README provides users with all the information they need to understand, set up, and use your project effectively. You can adjust the placeholder content (like the screenshot link and GitHub repository URL) before publishing.
