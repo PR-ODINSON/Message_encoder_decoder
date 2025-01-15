@@ -1,6 +1,6 @@
 # Message Encode-Decode Application
 
-A Python-based GUI application to encode and decode messages securely using a key. This app ensures secure communication by transforming messages into encoded formats that can only be decoded with the correct key. It is built with **Tkinter** for the graphical user interface and **base64** for encoding and decoding operations!
+A Python-based GUI application to encode and decode messages securely using a key. This app ensures secure communication by transforming messages into encoded formats that can only be decoded with the correct key. It is built with **Tkinter** for the graphical user interface and **base64** for encoding and decoding operations!!
 
 ---
 
